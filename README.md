@@ -4,7 +4,9 @@ Arbitrage bot for trading LTC-ETH across Binance and GDAX. The script runs in an
 
 ## Getting Started
 
-To get started, you will need a [Binance](https://www.binance.com/?ref=12918385) account and a [Coinbase/GDAX](https://www.coinbase.com/join/59d5484d4f1501012ea9998a) account. Set up API keys for each of these - paste these keys and secrets in the appropriate blanks in the code. You will also need a GDAX LTC deposit address to paste in to the code (you can get this by clicking on deposit on the left-hand side of LTC/USD).
+To get started, you will need a [Binance](https://www.binance.com/?ref=12918385) account and a [Coinbase/GDAX](https://www.coinbase.com/join/59d5484d4f1501012ea9998a) account. Set up API keys for each of these - paste these keys and secrets in the appropriate blanks in the code. You will also need a GDAX LTC deposit address to paste in to the code (you can get this by clicking on deposit on the left-hand side of LTC/USD). 
+
+The bot will use all available USD funds in your GDAX account. Pre-load this with as much as you'd like to let the bot use - anything over $200-$300 will be functional.
 
 ### Installing
 
